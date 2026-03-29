@@ -19,7 +19,8 @@ https://insightmaker.com/insight/6rHfmooglwvkIUAQcEi8CA/Workload-Burnout-Simulat
 │   ├── simulation_data_bw10.csv
 │   └── simulation_data_bw12.csv
 ├── LICENSE                     
-└── README.md                   
+├── README.md
+└── referances.bib                 # references of human factors for model validation   
 ```
 --- 
 
