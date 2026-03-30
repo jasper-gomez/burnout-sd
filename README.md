@@ -12,7 +12,8 @@ https://insightmaker.com/insight/6rHfmooglwvkIUAQcEi8CA/Workload-Burnout-Simulat
 ### 📂 Repository Structure
 ```
 ├── 📊 artifacts/
-│   ├── burnout_sf_diagram.png       
+│   ├── burnout_sf_diagram.png
+│   ├── sim_chart_wh8.png          # simulation chart with Working Hours = 8
 │   └── simulation_data_wh8.csv    # tabular data with Working Hours = 8
 ├── LICENSE                     
 ├── README.md
