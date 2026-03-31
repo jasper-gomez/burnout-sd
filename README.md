@@ -2,10 +2,7 @@
 
 A System Dynamics (SD) simulation of cognitive burnout based on *working hours* and *hours of sleep*.
 
----
-
-# Live Simulation
-https://insightmaker.com/insight/6rHfmooglwvkIUAQcEi8CA/Workload-Burnout-Simulation
+###### Link to [Live Simulation](https://insightmaker.com/insight/6rHfmooglwvkIUAQcEi8CA/Workload-Burnout-Simulation)
 
 ---
 
